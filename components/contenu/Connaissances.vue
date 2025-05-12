@@ -6,7 +6,7 @@ const connaissancesStore = useConnaissancesStore().data.connaissances;
 
 <template>
   <div
-    class="container flex lg:flex-row mt-5 gap-10 justify-around place-item-center"
+    class="container flex flex-col lg:flex-row mt-5 gap-10 justify-around place-item-center"
   >
     <div
       class="lg:w-[800px] lg:h-[700px] border-4 border-orange-500 rounded-3xl"

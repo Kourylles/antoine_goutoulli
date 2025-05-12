@@ -48,7 +48,7 @@ const syndromeStore = useSyndromeStore().data;
       </div>
     </div>
   </div>
-  <div>
+  <div class="mt-5 sm:mt-0">
     <h1
       class="w-full indent-12 first-letter:text-4xl md:first-letter:text-6xl first-letter:text-orange-500 text-justify"
     >
