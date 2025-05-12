@@ -1,0 +1,58 @@
+{
+  "hobbies": [
+    {
+      "icone": "meteocons:clear-day-fill",
+      "valeur": "j'aime",
+      "liste": [
+        {
+          "description": "Mon téléphone"
+        },
+        {
+          "description": "Les chiffres"
+        },
+        {
+          "description": "Jouer à la crapette"
+        },
+        {
+          "description": "La musique"
+        },
+        {
+          "description": "Jouer au \"Rummikub\""
+        },
+        {
+          "description": "Regarder des vidéos YouTube"
+        },
+        {
+          "description": "Les jeux vidéos sur ma switch"
+        },
+        {
+          "description": "Les jeux sur mon téléphone"
+        },
+        {
+          "description": "Poser des questions"
+        },
+        {
+          "description": "Faire de l'humour"
+        }
+      ]
+    },
+    {
+      "icone": "meteocons:overcast-haze-fill",
+      "valeur": "j'aime pas",
+      "liste": [
+        {
+          "description": "Que les autres ne respectent pas les règles"
+        },
+        {
+          "description": "Que l'on envahisse mon espace"
+        },
+        {
+          "description": "Les ambiances bruyantes"
+        },
+        {
+          "description": "Les couleurs sombres"
+        }
+      ]
+    }
+  ]
+}

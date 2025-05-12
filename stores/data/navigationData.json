@@ -1,0 +1,43 @@
+{
+  "to": "/",
+  "photo": "/images/navigation/AntoineBarreNav2.jpg",
+  "alt": "Photo Accueil Antoine",
+  "nom": "antoine",
+  "rubriques": [
+    {
+      "to": "/parcours",
+      "texte": {
+        "ligne1": "mon",
+        "ligne2": "parcours"
+      }
+    },
+    {
+      "to": "/connaissances",
+      "texte": {
+        "ligne1": "Je sais",
+        "ligne2": "Je sais pas"
+      }
+    },
+    {
+      "to": "/hobbies",
+      "texte": {
+        "ligne1": "J'aime",
+        "ligne2": "J'aime pas"
+      }
+    },
+    {
+      "to": "/galerie",
+      "texte": {
+        "ligne1": "quelques",
+        "ligne2": "photos"
+      }
+    },
+    {
+      "to": "/syndrome",
+      "texte": {
+        "ligne1": "mon",
+        "ligne2": "syndrome"
+      }
+    }
+  ]
+}

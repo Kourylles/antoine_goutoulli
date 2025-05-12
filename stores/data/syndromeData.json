@@ -1,0 +1,43 @@
+{
+  "description": [
+    {
+      "paragraphe": "Le syndrome de Smith-Magenis est une maladie génétique qui se manifeste par un déficit intellectuel, des troubles du comportement et des troubles du sommeil. Un accompagnement précoce et pluridisciplinaire est nécessaire pour en diminuer l’impact. Il a été décrit pour la première fois en 1982 par deux généticiennes, les Dr. Ann Smith et Hélène Magenis.",
+      "photo": "/images/syndrome/syndrome5.png",
+      "texteDroite": true,
+      "link": ""
+    },
+    {
+      "paragraphe": "Il se manifeste par l’association de plusieurs symptômes qui ne sont pas tous présents chez une même personne. Les plus caractéristiques sont : un déficit intellectuel, des troubles du comportement, des troubles du sommeil, des traits particuliers du visage qui peuvent être évocateurs pour un spécialiste. Ce syndrome peut aussi parfois s’accompagner d’anomalies diverses (des yeux, des oreilles, du cœur, du système urinaire) dont la sévérité varie beaucoup d’une personne à l’autre.",
+      "photo": "/images/syndrome/syndrome6.png",
+      "texteDroite": false,
+      "link": ""
+    },
+    {
+      "paragraphe": "Pour en savoir plus, vous pouvez consulter le site d'orphanet ou le site de l'association ASM17 en cliquant sur la photo ci-contre.",
+      "photo": "/images/syndrome/LogoASM17.png",
+      "texteDroite": true,
+      "link": "https://www.smithmagenis17.org/"
+    }
+  ],
+  "phraseIntro": "Pour moi, cela se traduit par : ",
+  "mesSymptomes": [
+    {
+      "symptome": "des difficultés à gérer mes émotions qu'elles soient bonnes ou mauvaises ;"
+    },
+    {
+      "symptome": "une inversion du cycle du sommeil : même avec mon traitement, je dors peu la nuit et j'ai des 'attaques' de sommeil dans la journée ;"
+    },
+    {
+      "symptome": "des retards dans tous mes apprentissages, mais ma grande fierté est de savoir lire et écrire ;"
+    },
+    {
+      "symptome": "des difficultés d'élocution mais il ne faut pas hésiter à me faire répeter ou à me demander de parler moins vite ;"
+    },
+    {
+      "symptome": "l'exécution des gestes stéréotypés : mouvement de serrement des mains quand je suis content et je me cogne la tête avec mes points lorsque je suis contrarié ;"
+    },
+    {
+      "symptome": "un mode de vie casanier et ritualisé : une situation nouvelle est difficile à vivre tant que n'ont pas été installés de nouveaux points de repère ;"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "connaissances": [
+    {
+      "icone": "meteocons:clear-day-fill",
+      "valeur": "je sais",
+      "liste": [
+        {
+          "description": "Lire"
+        },
+        {
+          "description": "Ecrire"
+        },
+        {
+          "description": "Faire ma toilette"
+        },
+        {
+          "description": "Faire mon lit"
+        },
+        {
+          "description": "Faire cuire des pâtes"
+        },
+        {
+          "description": "Utiliser un ordinateur (Traitement de texte)"
+        }
+      ]
+    },
+    {
+      "icone": "meteocons:overcast-haze-fill",
+      "valeur": "je ne sais pas",
+      "liste": [
+        {
+          "description": "Comprendre les choses trop abstraites"
+        },
+        {
+          "description": "Me déplacer seul en ville"
+        },
+        {
+          "description": "Prendre le bus seul"
+        },
+        {
+          "description": "Gérer mes émotions (bonnes ou mauvaises)"
+        },
+        {
+          "description": "Gérer la monnaie lors de mes achats"
+        }
+      ]
+    }
+  ]
+}
