@@ -6,10 +6,10 @@ const connaissancesStore = useConnaissancesStore().data.connaissances;
 
 <template>
   <div
-    class="container flex flex-col lg:flex-row mt-5 gap-10 justify-around place-item-center"
+    class="md:container flex flex-col xl:flex-row mt-5 gap-10 justify-around place-item-center"
   >
     <div
-      class="lg:w-[800px] lg:h-[700px] border-4 border-orange-500 rounded-3xl"
+      class="h-fit lg:w-[800px] border-4 border-orange-500 rounded-3xl"
       v-for="(item, index) in connaissancesStore"
       :key="index"
     >
@@ -21,7 +21,9 @@ const connaissancesStore = useConnaissancesStore().data.connaissances;
           {{ item.valeur }}
         </div>
         <Icon :name="item.icone" size="60" />
-        <ul class="text-left p-5 list-disc list-inside my-24">
+        <ul
+          class="text-left text-xl sm:text-2xl md:text-4xl p-5 list-disc list-inside"
+        >
           <li v-for="(liste, index) in item.liste">{{ liste.description }}</li>
         </ul>
       </div>

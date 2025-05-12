@@ -6,7 +6,7 @@ const hobbieStore = useHobbieStore().data.hobbies;
 
 <template>
   <div
-    class="container flex flex-col lg:flex-row mt-5 gap-10 justify-around place-item-center"
+    class="md:container flex flex-col lg:flex-row mt-5 gap-10 justify-around place-item-center"
   >
     <div
       class="lg:w-[800px] lg:h-auto border-4 border-orange-500 rounded-3xl"
@@ -21,7 +21,9 @@ const hobbieStore = useHobbieStore().data.hobbies;
           {{ item.valeur }}
         </div>
         <Icon :name="item.icone" size="60" />
-        <ul class="text-left pl-5 list-disc list-inside my-10">
+        <ul
+          class="text-left pl-5 list-disc list-inside my-10 text-xl sm:text-2xl md:text-4xl p-5 md:my-24"
+        >
           <li v-for="(liste, index) in item.liste">{{ liste.description }}</li>
         </ul>
       </div>

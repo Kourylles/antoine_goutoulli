@@ -3,7 +3,9 @@ import { useNavigationStore } from "#imports";
 const navigationStore = useNavigationStore().data;
 </script>
 <template>
-  <div class="w-full mb-16 md:mb-24 lg:mb-32 font-silkscreen text-cyan-300">
+  <div
+    class="mx-auto w-full mb-16 md:mb-24 lg:mb-32 font-silkscreen text-cyan-300"
+  >
     <div
       class="flex flex-row justify-center fixed top-0 left-0 right-0 py-2 border-b-2 lg:border-b-4 border-orange-500 bg-cyan-800 lg:py-4"
     >
