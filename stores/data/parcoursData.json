@@ -9,9 +9,12 @@
         },
         {
           "description": "Je suis un bébé très calme"
+        },
+        {
+          "description": "J'ai commencé à babiller vers 3 ans"
         }
       ],
-      "photo": "/images/parcours/AntoineValbonne1.jpg"
+      "photo": "/images/parcours/AntoineValbonne.jpg"
     },
     {
       "ville": "Colmar (68)",
@@ -70,7 +73,7 @@
           "description": "DAME du Murier (2024)"
         }
       ],
-      "photo": "/images/parcours/AntoineTours1.jpg"
+      "photo": "/images/parcours/AntoineTours.jpg"
     }
   ]
 }
