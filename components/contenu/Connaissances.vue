@@ -9,7 +9,7 @@ const connaissancesStore = useConnaissancesStore().data.connaissances;
     class="md:container flex flex-col xl:flex-row mt-5 gap-10 justify-around place-item-center"
   >
     <div
-      class="h-fit lg:w-[800px] border-4 border-orange-500 rounded-3xl"
+      class="h-fit lg:w-[800px] border-4 lg:h-auto border-orange-500 rounded-3xl"
       v-for="(item, index) in connaissancesStore"
       :key="index"
     >

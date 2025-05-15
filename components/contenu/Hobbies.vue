@@ -22,7 +22,7 @@ const hobbieStore = useHobbieStore().data.hobbies;
         </div>
         <Icon :name="item.icone" size="60" />
         <ul
-          class="text-left pl-5 list-disc list-inside my-10 text-xl sm:text-2xl md:text-4xl p-5 md:my-24"
+          class="text-left text-xl sm:text-2xl md:text-4xl p-5 list-disc list-inside"
         >
           <li v-for="(liste, index) in item.liste">{{ liste.description }}</li>
         </ul>
